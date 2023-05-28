@@ -128,6 +128,10 @@ Caution! Scripts are executable codes. Use them with care!
 
 Mobile phone related cool stuff.
 
+### 🌐 Web UI
+
+* [Toggle visible mobile menu](https://github.com/zadam/trilium/discussions/3975#discussioncomment-6018196) A `JS Frontend` script that can be labeled with `#run=mobileStartup` to allow a three-finger tap to hide/unhide the left-hand sidebar menu on mobile layouts.
+
 ### 🤖 Android
 
 * [trilium-sender](https://github.com/zadam/trilium-sender) A simple write-only android application for sending images and notes to Trilium 
