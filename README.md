@@ -121,6 +121,7 @@ Widgets can make big difference in the Trilium user experience!
 
 Magic!
 Caution! Scripts are executable codes. Use them with care!
+* [archiveDoneTask](https://github.com/jwhonce/trilium-addons/blob/main/archiveDoneTask/archiveDoneTask.js) Archive Task Manager Done tasks older then archivedAgeInDays (default: 30)
 * [Trilium-chat](https://github.com/soulsands/trilium-chat) The chat plugin for Trilium currently supports Chatgpt
 * [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
